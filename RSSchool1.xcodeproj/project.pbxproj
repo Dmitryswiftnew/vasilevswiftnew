@@ -19,6 +19,7 @@
 		0A2D0E512C7EFA02006DB477 /* RSSchool1UITestsLaunchTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 0A2D0E502C7EFA02006DB477 /* RSSchool1UITestsLaunchTests.m */; };
 		0A2D0E5F2C7EFF39006DB477 /* SecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0A2D0E5E2C7EFF39006DB477 /* SecondViewController.m */; };
 		0A2D0E622C7F270C006DB477 /* ThirdViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0A2D0E612C7F270C006DB477 /* ThirdViewController.m */; };
+		0A2D0E652C7F2899006DB477 /* 4ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0A2D0E642C7F2899006DB477 /* 4ViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -60,6 +61,8 @@
 		0A2D0E5E2C7EFF39006DB477 /* SecondViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SecondViewController.m; sourceTree = "<group>"; };
 		0A2D0E602C7F270C006DB477 /* ThirdViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ThirdViewController.h; sourceTree = "<group>"; };
 		0A2D0E612C7F270C006DB477 /* ThirdViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ThirdViewController.m; sourceTree = "<group>"; };
+		0A2D0E632C7F2899006DB477 /* 4ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = 4ViewController.h; sourceTree = "<group>"; };
+		0A2D0E642C7F2899006DB477 /* 4ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = 4ViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -123,6 +126,8 @@
 				0A2D0E3A2C7EFA02006DB477 /* main.m */,
 				0A2D0E5D2C7EFF39006DB477 /* SecondViewController.h */,
 				0A2D0E5E2C7EFF39006DB477 /* SecondViewController.m */,
+				0A2D0E632C7F2899006DB477 /* 4ViewController.h */,
+				0A2D0E642C7F2899006DB477 /* 4ViewController.m */,
 				0A2D0E602C7F270C006DB477 /* ThirdViewController.h */,
 				0A2D0E612C7F270C006DB477 /* ThirdViewController.m */,
 			);
@@ -280,6 +285,7 @@
 				0A2D0E302C7EFA01006DB477 /* ViewController.m in Sources */,
 				0A2D0E622C7F270C006DB477 /* ThirdViewController.m in Sources */,
 				0A2D0E2A2C7EFA01006DB477 /* AppDelegate.m in Sources */,
+				0A2D0E652C7F2899006DB477 /* 4ViewController.m in Sources */,
 				0A2D0E3B2C7EFA02006DB477 /* main.m in Sources */,
 				0A2D0E2D2C7EFA01006DB477 /* SceneDelegate.m in Sources */,
 			);
